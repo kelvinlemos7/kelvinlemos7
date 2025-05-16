@@ -1,6 +1,6 @@
 Olá, eu sou o Kelvin Lemos!
 
-- 🔭 Atualmente estou desenvolvendo projetos com Front-End
+- 🔭 Sou engenheiro de software em formação e atualmente estou desenvolvendo projetos com Front-End
 - 🌱 Estudando frameworks e consumo de APIs
 - 📫 Contate-me no email: kelvinkauan17@gmail.com
 
