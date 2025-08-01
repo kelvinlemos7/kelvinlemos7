@@ -1,16 +1,20 @@
 Olá, eu sou o Kelvin Lemos!
 
 - 🔭 Sou engenheiro de software em formação e atualmente estou desenvolvendo projetos com Front-End
-- 🌱 Estudando frameworks, banco de dados e consumo de APIs
+- 🌱 Estudando frameworks, banco de dados e Back-End
 - 📫 Contate-me no email: kelvinkauan17@gmail.com
 
 <p>&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kelvinlemos7&show_icons=true&theme=dark&locale=en" alt="kelvinlemos7" /></p>
 <p><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvinlemos7&show_icons=true&theme=dark&locale=en&layout=compact" alt="kelvinlemos7" /></p>
 
+
 <div style="display: inline_block"><br>
  <img align="center" alt="Kelvin-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
  <img align="center" alt="Kelvin-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
  <img align="center" alt="Kelvin-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img align="center" alt="Kelvin-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+ <img align="center" alt="Kelvin-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 </div>
 
 ##
