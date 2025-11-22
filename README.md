@@ -1,6 +1,6 @@
 Olá, eu sou o Kelvin Lemos! 👋  
 - 🔭 Em formação em Engenharia de Software  
-- 🌱 Estudando frameworks, banco de dados e Back-End  
+- 🌱 Estudando frameworks, APIs e Back-End  
 - 📫 Contato: kelvinkauan17@gmail.com
 
 <p>&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kelvinlemos7&show_icons=true&theme=dark&locale=en" alt="kelvinlemos7" /></p>
