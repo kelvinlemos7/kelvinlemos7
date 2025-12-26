@@ -4,6 +4,7 @@ Olá, eu sou o Kelvin Lemos! 👋
 - 📫 Contato: kelvinkauan17@gmail.com
 
 <p>&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kelvinlemos7&show_icons=true&theme=dark&locale=en" alt="kelvinlemos7" /></p>
+
 <p><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvinlemos7&show_icons=true&theme=dark&locale=en&layout=compact" alt="kelvinlemos7" /></p>
 
 
