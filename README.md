@@ -1,7 +1,7 @@
 ## 👋🏼 Hello! I'm Kelvin Lemos
 
 I'm a **Software Engineering student** focused mainly on **back-end development and REST APIs**.  
-I have hands-on experience with **Python/FastAPI, Node.js, and MySQL**, working with authentication, business logic, and external integrations.  
+I have hands-on experience with **Python/FastAP and MySQL**, working with authentication, business logic, and external integrations.  
 Below are projects that reflect my learning journey and technical growth.
 
 ---
