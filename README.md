@@ -8,10 +8,10 @@ Below are some projects that showcase my growth and technical skills.
 ---
 
 ## 🧠 Currently studying
-- **Java** (OOP, design patterns, back-end fundamentals, clean code)  
-- REST APIs and back-end architecture  
-- Relational databases (MySQL)  
-- Best practices, code organization, and version control (Git)  
+- **Java** (OOP, design patterns, back-end fundamentals, clean code)
+- **Spring Boot** (REST APIs, JPA/Hibernate, back-end architecture)
+- Relational databases (MySQL)
+- Best practices, code organization, and version control (Git)
 
 ---
 
