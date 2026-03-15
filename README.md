@@ -30,7 +30,7 @@ Below are some projects that showcase my growth and technical skills.
 ---
 
 ## 📊 GitHub Stats
-![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvinlemos7&show_icons=true&theme=dark)
+![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvinlemos7&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinlemos7&layout=compact&theme=dark)
 
 ---
 
