@@ -17,8 +17,8 @@ Below are some projects that showcase my technical skills.
 
 ## ⚙️ Technologies & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=js,mysql,git,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,docker&theme=dark" />
 </div>
 
 ---
