@@ -1,9 +1,9 @@
 # 👋🏼 Hello! I'm Kelvin Lemos
 
-I'm a Software Engineering student with a strong focus on Java back-end development and REST APIs.
-I have experience building Java applications applying OOP principles, design patterns, business logic, and relational database integrations.
-Additionally, I've worked with Python/FastAPI for API development and prototyping.
-Below are some projects that showcase my growth and technical skills.
+I'm a **Software Engineering student** with a strong focus on **Java back-end development and REST APIs**.
+I have experience building **Java applications** applying OOP principles, design patterns, business logic, and relational database integrations.
+I've also worked with **Python/FastAPI** for API development and prototyping.
+Below are some projects that showcase my technical skills.
 
 ---
 
