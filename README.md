@@ -31,7 +31,7 @@ Below are some projects that showcase my growth and technical skills.
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagosilva06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinlemos7&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 </div>
 
 ---
