@@ -1,19 +1,10 @@
-# 👋🏼 Hello! I'm Kelvin Lemos
+# 👋🏼 Hi, I'm Kelvin
 
-I'm a **Software Engineering student** with a strong focus on **Java back-end development and REST APIs**.
-I have experience building **Java applications** applying OOP principles, design patterns, business logic, and relational database integrations.
-I've also worked with **Python/FastAPI** for API development and prototyping.
-Below are some projects that showcase my technical skills.
+I'm a Software Engineering student building production-ready backend systems with Java and Spring Boot.
 
----
+I'm the co-founder and backend engineer behind Agillis, a multi-tenant SaaS scheduling platform for barbershops and salons, live in production with real paying customers. I designed the Java/Spring Boot backend, including JWT auth, tenant isolation, Google Calendar integration, and recurring payments via Mercado Pago.
 
-## 🧠 Currently studying
-- **Java** (OOP, design patterns, back-end fundamentals, clean code)
-- **Spring Boot** (REST APIs, JPA/Hibernate, back-end architecture)
-- Relational databases (MySQL)
-- Best practices, code organization, and version control (Git)
-
----
+I also work with Python/FastAPI, and I'm always focused on clean architecture and real-world engineering practices over just "making it work."
 
 ## ⚙️ Technologies & Tools
 <div align="center">
